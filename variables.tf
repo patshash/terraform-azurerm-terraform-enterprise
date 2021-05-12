@@ -405,7 +405,7 @@ variable "vm_node_count" {
 }
 
 variable "vm_user" {
-  default     = "tfeuser"
+  default     = "patrick"
   type        = string
   description = "Virtual machine user name"
 }
